@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am poojan parmar new to github and open-source
 
 <!--
 **poojan-parmar/poojan-parmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
